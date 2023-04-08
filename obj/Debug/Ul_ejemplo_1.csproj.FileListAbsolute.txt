@@ -1,0 +1,11 @@
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\bin\Debug\Ul_ejemplo_1.exe.config
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\bin\Debug\Ul_ejemplo_1.exe
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\bin\Debug\Ul_ejemplo_1.pdb
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.csproj.AssemblyReference.cache
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.Properties.Resources.resources
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.csproj.GenerateResource.cache
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.exe
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.pdb
+C:\Users\CAROLINA\Documents\5TO SEMESTRE\ACTUALIZACCION TECNOLOGICA\Ul_ejemplo_1\Ul_ejemplo_1\obj\Debug\Ul_ejemplo_1.txtN1.resources
